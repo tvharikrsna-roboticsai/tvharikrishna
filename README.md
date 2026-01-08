@@ -19,6 +19,7 @@ Love working in simulation and robotics system integration, creating physics-bas
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=76B900&color=76B900)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=76B900&color=76B900)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 <br><br>
 
