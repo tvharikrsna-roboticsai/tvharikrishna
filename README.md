@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="readme_data/gittitle.png"alt="Header GIF" width="9965"/>
+  <img src="readme_data/gittitle.png"alt="Header GIF" width="99965"/>
 </p> <br><br>
 
 <img src="readme_data/whoami.png" alt="whoami" width="233"/>
